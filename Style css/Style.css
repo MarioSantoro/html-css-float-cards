@@ -20,6 +20,7 @@
 main{
     width: 70%;
     margin: 0 auto;
+    padding: 10px;
 }
 main > .title{
     color: #e53270;
@@ -43,12 +44,12 @@ main > .title{
 }
 
 .container{
-    margin-top: 40px
+    margin-top:60px
 }
 
 .container-item{
     width: 33%;
-    padding-right: 20px;
+    padding-right: 40px;
 }
 
 .item{
@@ -72,13 +73,14 @@ main > .title{
     background-color: #0f0e17
 }
 
+.description > h2{
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
 img{
     width: 125px;
     height: 125px;
-}
-
-h2{
-    font-size: 1.2rem;
 }
 
 p.Job{

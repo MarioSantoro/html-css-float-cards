@@ -45,23 +45,24 @@ main > .title{
 
 .item{
     width: 100%;
-    height: 100px;
 }
 
 .img{
     width: 25%;
+    text-align: end;
 }
 
 .description{
     width: 75%;
-    padding: 10px;
+    height: 125px;
+    padding: 30px;
     color: white;
     background-color: #0f0e17
 }
 
 img{
-    width: 100%;
-    height: 100%;
+    width: 125px;
+    height: 125px;
 }
 
 h2{

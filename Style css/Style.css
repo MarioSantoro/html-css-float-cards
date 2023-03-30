@@ -68,13 +68,14 @@ main > .title{
 .description{
     width: calc(100% - 125px);
     height: 125px;
-    padding: 30px;
+    padding:30px;
+    padding-bottom: 35px;
     color: white;
     background-color: #0f0e17
 }
 
 .description > h2{
-    font-weight: bolder;
+    font-weight: 900;
     font-size: 1.2rem;
 }
 

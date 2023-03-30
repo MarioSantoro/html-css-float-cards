@@ -48,12 +48,12 @@ main > .title{
 }
 
 .img{
-    width: 25%;
+    width: 125px;
     text-align: end;
 }
 
 .description{
-    width: 75%;
+    width: calc(100% - 125px);
     height: 125px;
     padding: 30px;
     color: white;
@@ -67,4 +67,12 @@ img{
 
 h2{
     font-size: 1.2rem;
+}
+
+p.Job{
+    margin: 10px 0;
+}
+
+p.email{
+    color:#4bb1c3
 }

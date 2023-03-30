@@ -38,13 +38,25 @@ main > .title{
     font-weight: bolder;
 }
 
+.lorem{
+    font-size: 1.5rem;
+}
+
+.container{
+    margin-top: 40px
+}
+
 .container-item{
     width: 33%;
-    height: 300px;
+    padding-right: 20px;
 }
 
 .item{
     width: 100%;
+}
+
+.item:last-of-type{
+    margin-top: 50px;
 }
 
 .img{

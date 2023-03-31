@@ -49,6 +49,9 @@ main > .title{
 
 .container-item{
     width: 33%;
+}
+
+.container-item:nth-child(1) , .container-item:nth-child(2){
     padding-right: 40px;
 }
 

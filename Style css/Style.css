@@ -63,11 +63,6 @@ main > .title{
     margin-top: 50px;
 }
 
-.img{
-    width: 125px;
-    text-align: end;
-}
-
 .description{
     width: calc(100% - 125px);
     height: 125px;
